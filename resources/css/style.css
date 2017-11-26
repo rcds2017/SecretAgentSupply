@@ -24,7 +24,7 @@ html {
   padding-right: 1rem;
 }
 .main-banner {
-  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-5/moto.jpeg);
+  background-image: url(../images/banner.jpeg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
